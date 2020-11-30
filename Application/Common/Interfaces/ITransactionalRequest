@@ -1,0 +1,6 @@
+namespace Service.Application.Workflow.Interfaces
+{
+    public interface ITransactionalRequest
+    {
+    }
+}
